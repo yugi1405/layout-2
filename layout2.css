@@ -1,0 +1,27 @@
+body
+{
+	.container .row .p1{
+	width: 300px;
+	height:150px;
+	background-color:yellow;
+	
+}
+
+.container .row .p2{
+	width: 300px;
+	height:150px;
+	background-color:red;
+	
+}
+
+.container .row .p3{
+	width: 300px;
+	height:150px;
+	background-color:grey;
+	
+}
+	
+}.products {
+  display: flex;
+  flex-wrap: wrap;
+}
